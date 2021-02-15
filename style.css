@@ -1,0 +1,30 @@
+.grid{
+    height: 100px;
+    width: 500px;
+
+}
+h1{
+    color:#2db3f1;
+    text-align: center;
+    font-size: 150px;
+    background-position: center;
+    height: 300px;
+    background-size: 1600px 1000px;
+    background-image: url("Vital\ Line.jpg");
+    font-family:'Courier New';
+}
+.header{
+    color:cornflowerblue;
+    justify-content: space-around;
+    text-align:center;
+    display:flex;
+    background-image:url("Color\ Background.jpg");
+}
+
+html{
+    background-image:url("Dark\ Background.jpg");
+}
+.item:hover img{
+ opacity: 0.33;
+ transform: rotate(6deg);
+ }

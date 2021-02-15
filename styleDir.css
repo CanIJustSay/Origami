@@ -1,0 +1,19 @@
+h1{
+    color:#FF9FFF;
+    text-align: center;
+    font-size: 60px;
+    font-family: '';
+}
+p{
+    text-align: center;
+    color:#FFFFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html{
+    background-image:url("Splash.jpg");
+}
+.images{
+  text-align: center;
+    justify-content: space-around;
+}
+
